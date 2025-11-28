@@ -1,8 +1,3 @@
-Your PDF is ready!
-👉 **Download here:** [cometchat_task_report.pdf](sandbox:/mnt/data/cometchat_task_report.pdf)
-
-
-
 ## ✅ README.md (You can copy-paste this into your repo)
 
 ```markdown
@@ -79,7 +74,15 @@ src/cometChatConfig.js
 
 ## 📸 Screenshots / Video
 
-Screenshots and video demo are included in the repository and also shown in the PDF.
+Screenshots:-
+<img width="1912" height="873" alt="Screenshot 2025-11-28 181143" src="https://github.com/user-attachments/assets/c118cc2e-5f83-4d99-a284-0ca4bed9946a" />
+<img width="1919" height="854" alt="Screenshot 2025-11-28 181233" src="https://github.com/user-attachments/assets/f23e2d1b-c7a9-446c-b293-bbb84d1f0608" />
+<img width="1910" height="1013" alt="Screenshot 2025-11-28 180956" src="https://github.com/user-attachments/assets/9aec21fc-1bc7-4a38-8aac-b6922d7ec3c6" />
+<img width="1898" height="869" alt="Screenshot 2025-11-28 181004" src="https://github.com/user-attachments/assets/28724fda-2426-42da-b8d2-6cfcedd704d2" />
+<img width="1900" height="860" alt="Screenshot 2025-11-28 181107" src="https://github.com/user-attachments/assets/5c9b30af-e6ab-44e0-b2aa-e9c60bb2832a" />
+
+
+video:- https://www.loom.com/share/0461cf4ef31144d4af404c55cc3f6e7e
 
 ---
 
