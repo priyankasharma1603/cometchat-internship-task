@@ -102,13 +102,5 @@ cometchat_task_report.pdf
 Frontend Developer | React | Next.js | UI/UX
 Email: *[psgeeta16@gmail.com](mailto:psgeeta16@gmail.com)*
 
-```
 
----
 
-If you want, I can also:
-
-✅ Write the **submission email**  
-✅ Create a **more detailed PDF (with headings, screenshots placeholders, table)**  
-✅ Improve README formatting further
-```
